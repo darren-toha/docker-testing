@@ -1,0 +1,13 @@
+{
+  "name": "docker_nodemailer_service",
+  "version": "1.0.0",
+  "description": "Nodemailer on Docker",
+  "author": "Darren ONeill",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
